@@ -1,0 +1,4 @@
+com/example/yapilacaklar/Yapilacaklar1Application.class
+com/example/yapilacaklar/controller/YapilacaklarController.class
+com/example/yapilacaklar/repository/YapilacaklarRepository.class
+com/example/yapilacaklar/entity/Yapilacaklar.class
